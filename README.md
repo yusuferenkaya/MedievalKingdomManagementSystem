@@ -1,5 +1,4 @@
 # kingdommanagementsystem!
-![CME2210_PROJECT_FINAL_REPORT-01](https://user-images.githubusercontent.com/63504037/210257701-e611f517-3397-41c2-a5b5-22f7de12d629.jpg)
 ![CME2210_PROJECT_FINAL_REPORT-02](https://user-images.githubusercontent.com/63504037/210257704-0c82e32b-5fcf-4a9d-a250-30acd8d8fef8.jpg)
 ![CME2210_PROJECT_FINAL_REPORT-03](https://user-images.githubusercontent.com/63504037/210257708-d9c43fd8-9349-4ade-b5eb-e51d6e29ccaa.jpg)
 ![CME2210_PROJECT_FINAL_REPORT-04](https://user-images.githubusercontent.com/63504037/210257709-68eaf5cc-e122-4080-9aa6-7563a7099235.jpg)
